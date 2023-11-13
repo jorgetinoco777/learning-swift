@@ -10,6 +10,8 @@ let ADMIN: String = "George"
 // Booleano
 var isGeorge: Bool = false
 
+var mortgageReamining: Double = 1_000_000_000
+
 isGeorge = name == ADMIN
 
 var salary: Double = 2000.99
