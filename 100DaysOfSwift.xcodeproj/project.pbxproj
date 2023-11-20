@@ -11,6 +11,7 @@
 		F50F76112AFDA23200B66D29 /* MainUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainUI.swift; sourceTree = "<group>"; };
 		F50F76122AFDA2F000B66D29 /* Day1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day1.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F5C3A9822B046BF300169D35 /* Day4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day4.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F5C3A9832B05697900169D35 /* Day5.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day5.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F5CD86392AFEE35B00C22327 /* Day2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F5D5010B2B02D5760093142D /* Day3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day3.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
@@ -19,6 +20,7 @@
 		F50F76092AFD922D00B66D29 = {
 			isa = PBXGroup;
 			children = (
+				F5C3A9832B05697900169D35 /* Day5.playground */,
 				F5C3A9822B046BF300169D35 /* Day4.playground */,
 				F5D5010B2B02D5760093142D /* Day3.playground */,
 				F5CD86392AFEE35B00C22327 /* Day2.playground */,
